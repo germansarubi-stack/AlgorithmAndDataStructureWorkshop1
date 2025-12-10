@@ -1,9 +1,4 @@
 
-
-	//Nombre: Sarubi German
-	//Legajo: VINF013126
-	//DNI: 36651460
-
 //Clase QuiokSort que contiene metodos de ordenamiento recursivo y particionamiento
 public class quickSortTP4 {
 	

@@ -1,7 +1,3 @@
-	//Nombre: German Sarubi
-	//Legajo: VINF013126
-	//DNI: 36651460
-	//Fecha:10/06/2024
 
 import java.util.Scanner; 
 

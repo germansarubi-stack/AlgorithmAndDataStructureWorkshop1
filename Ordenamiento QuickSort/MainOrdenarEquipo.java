@@ -1,9 +1,4 @@
 
-
-	//Nombre: Sarubi German
-	//Legajo: VINF013126
-	//DNI: 36651460
-
 //Clase principal del programa
 public class MainOrdenarEquipo {
 	public static void main(String[] args) {

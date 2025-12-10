@@ -1,9 +1,4 @@
 
-
-		//Nombre: German Sarubi
-		//Legajo: VINF013126
-		//DNI: 36651460
-
 //Clase principal de la lista doblemente enlazada
 public class PrincipalListaDoblementeEnlazada {
 	public static void main(String[] args) {

@@ -1,8 +1,4 @@
 
-		//Nombre: German Sarubi
-		//Legajo: VINF013126
-		//DNI: 36651460
-
 //CLase lista doblemente enlazada que contendra los metdos de manipulacion de datos de la clase
 public class ListaDoblementeEnlazada {
 	private NodoDeListaDoblementeEnlazada cabeza;

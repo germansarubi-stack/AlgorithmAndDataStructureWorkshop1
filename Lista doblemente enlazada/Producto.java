@@ -1,9 +1,4 @@
 
-
-		//Nombre: German Sarubi
-		//Legajo: VINF013126
-		//DNI: 36651460
-
 //Clase producto con sus caracteristicas
 public class Producto {
 	int codigo;
